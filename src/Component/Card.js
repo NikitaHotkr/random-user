@@ -18,7 +18,7 @@ function Card() {
   }, []);
 
 // console.log(userData);
-console.log("playing with creating new branch");
+
   // Based on URL path, card details are changed. 
   return (
     <div className={cardStyle.card}>
