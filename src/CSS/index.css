@@ -1,0 +1,32 @@
+html{
+    font-size: 62.5%;
+}
+
+*{
+    margin:0; 
+    padding:0;
+    font-size: 1.6rem;
+    font-family: sans-serif;
+}
+
+#root{
+    height: 100vh;
+    width: 100%;
+    background-color: #ffd7ba;
+    overflow: hidden;
+}
+
+:root{
+    --name: #212529;
+    --label: #adb5bd;
+    --value: #6c757d;
+}
+
+.arrow{
+    position: fixed;
+    top: 2%; 
+    left: 2%;
+    color:#212529 ; 
+    background-color: #fff;
+    border-radius: 5px;
+}

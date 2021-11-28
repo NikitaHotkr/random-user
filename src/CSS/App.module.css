@@ -1,0 +1,8 @@
+.app{
+    height: 100vh;
+}
+
+.noStyle {
+    text-decoration: none ;
+    color: #212529 ; 
+}
